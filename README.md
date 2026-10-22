@@ -158,4 +158,4 @@ The findings highlight attendance, study habits, and tutoring participation as u
 
 ## Dashboard Preview
 
-![Pre-Analysis Dashboard](./pre-analysis.png)
+<img width="1426" height="795" alt="pre-analysis png" src="https://github.com/user-attachments/assets/ea569d4e-c8d7-4d60-affb-823478839c9d" />
