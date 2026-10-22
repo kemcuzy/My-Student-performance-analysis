@@ -163,3 +163,6 @@ The findings highlight attendance, study habits, and tutoring participation as u
 <img width="1424" height="799" alt="academic-performance-overview png" src="https://github.com/user-attachments/assets/dc18a4fb-a538-47ab-bea6-161adf3d4301" />
 
 <img width="1430" height="803" alt="academic-history-performance png" src="https://github.com/user-attachments/assets/687cf87f-8e3e-4409-a207-f96820c1807e" />
+
+<img width="1423" height="796" alt="in-analysis png" src="https://github.com/user-attachments/assets/a846bb7c-ad89-4acb-847d-3513869124f6" />
+
