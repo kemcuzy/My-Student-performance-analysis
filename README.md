@@ -157,5 +157,4 @@ The findings highlight attendance, study habits, and tutoring participation as u
 **Pre-Analysis → Python Cleaning → EDA → Power BI Dashboard → Insights → Recommendations**
 
 ## Dashboard Preview
-
-![Pre-Analysis Dashboard](pre-analysis.png)
+![Pre-Analysis.png..png](pre-analysis.png)
